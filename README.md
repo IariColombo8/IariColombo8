@@ -1,6 +1,7 @@
 
 
 
+<img src="https://github.com/IariColombo8/IariColombo8/blob/main/img/iara_portada.PNG?raw=true" alt="banner that Iara Colombo - software engineer">
 
 ## Hi, I'm IaraColombo a Python Software Developer
 
